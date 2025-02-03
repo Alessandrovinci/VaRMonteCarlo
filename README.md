@@ -1,5 +1,5 @@
 # VaRMonteCarlo
-This is a very quick experiment to demonstrate hot to compupte the VaR of a portfolio using a Monte Carlo simulation.
+This is a very quick experiment to demonstrate hot to compute the VaR of a portfolio using a Monte Carlo simulation.
 MC is a very elegant way to approximate a probability distribution with a random sampling technique. Basically it simulates thousands of times the occurrence of an event under a random setting and store the results such that, in the long term, the empirical samples obtained will tend to reflect the real probability distribution of the event.
 So in this experiment:
 1. we will simplify things by estimating the Expected Returns and risks of the portfolio using the historical data we have about the stocks' returns.
